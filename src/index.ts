@@ -1,7 +1,7 @@
 import { Probot } from 'probot'
 
-export = (app: Probot) => {
-  app.on('issues.opened', async (context) => {
+export default (app: Probot) => {
+  app.on('issues.opened', async context => {
     const issueComment = context.issue({
       body: 'Thanks for opening this issue!'
     })
