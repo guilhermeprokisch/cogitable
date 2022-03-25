@@ -8,7 +8,7 @@ import {
   UpdateBody
 } from './replacebrackets'
 
-export const app = (probot: Probot): void => {
+export default (probot: Probot): void => {
   probot.on(
     [
       'issues.opened',
