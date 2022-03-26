@@ -1,0 +1,11 @@
+{
+  "name": "Cogitable",
+  "description": "Turns Github Issues on a personal note taking system",
+  "repository": "https://github.com/guilhermeprokisch/cogitable",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "github",
+    "issues",
+    "note taking"
+  ]
+}
