@@ -1,6 +1,6 @@
-# cogitable
+# Cogitable
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A note taking system using Github Issues
+Turns Github issues on a personal note system.
 
 ## Setup
 
