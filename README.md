@@ -2,7 +2,11 @@
 
 Turns Github issues on a personal note system.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ## Setup
+
 
 ```sh
 # Install dependencies
